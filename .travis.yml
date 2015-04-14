@@ -1,2 +1,3 @@
 language: csharp
 solution: AsyncCoverage.sln
+after_success: coveralls
