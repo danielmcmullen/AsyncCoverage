@@ -1,0 +1,9 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" processModel="Default" domainUsage="Multiple" />
+  <Config name="Debug" binpathtype="Auto">
+    <assembly path="AsyncCoverageTest\bin\Debug\AsyncCoverageTest.dll" />
+  </Config>
+  <Config name="Release" binpathtype="Auto">
+    <assembly path="AsyncCoverageTest\bin\Release\AsyncCoverageTest.dll" />
+  </Config>
+</NUnitProject>
